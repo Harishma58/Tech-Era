@@ -1,0 +1,19 @@
+.bg-container {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ffffff;
+}
+.list-container {
+  width: 80%;
+   
+  margin: 0;
+  display: flex;
+  flex-wrap: wrap;
+}
+.heading {
+  font-family: 'roboto';
+  font-size: 26px;
+  color: #000000;
+  font-weight: 400;
+  margin-left: 60px;
+}

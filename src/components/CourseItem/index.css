@@ -1,0 +1,19 @@
+.list-item {
+  display: flex;
+  align-items: center;
+  width: 40%;
+  margin: 20px;
+}
+.name {
+  font-family: 'roboto';
+  font-size: 16px;
+  color: #000000;
+  font-weight: bold;
+}
+.icons {
+  width: 60px;
+  margin-right: 20px;
+}
+.link {
+  text-decoration: none;
+}
